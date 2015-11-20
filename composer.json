@@ -1,5 +1,6 @@
 {
-    "name": "alex/maestro",
+    "name": "am-micro/maestro",
+    "description": "App managing registry and services",
     "license": "proprietary",
     "type": "project",
     "autoload": {
